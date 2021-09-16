@@ -1,0 +1,9 @@
+@import "./__item/cards__item.css";
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    padding: 30px 0;
+}

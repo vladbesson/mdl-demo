@@ -1,0 +1,12 @@
+@import "./__heading/info__heading.css";
+
+.info {
+    background: url("../../images/back.jpg") right no-repeat;
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
